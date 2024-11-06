@@ -1,0 +1,21 @@
+/**
+
+@mainpage Project2
+
+@author George Andreou
+
+ *
+ * @brief  The program performs the following tasks:
+ * - Loads a periodic table from a specified input file into memory using a sorted structure.
+ * - Reads chemical formulas from another input file, which is provided as a command-line argument.
+ * - Supports formulas with any number of nested parentheses and coefficients.
+ * - Expands the chemical formulas to compute the total number of protons by referencing the atomic numbers from the periodic table.
+ * - Outputs the expanded formula and the total proton count to a specified output file.
+ *
+ * The periodic table file contains chemical symbols and their corresponding atomic numbers,
+ * while the chemical formulas can include multiple elements, nested groups, and numeric indices
+ *
+ *
+ */
+
+
